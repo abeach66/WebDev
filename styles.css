@@ -1,0 +1,34 @@
+body{
+  background-color:#E8F9E9;
+  margin: 3% 5%;
+
+}
+
+img {
+  height: 400px;
+  margin-top: 20px;
+}
+
+h1 {
+  color: #66BFBF;
+}
+
+h2 {
+  color: #66BFBF;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: blue;
+  border-width: 5px;
+  width: 50%;
+}
+
+.Boeing-Title {
+  padding: 100px 0 20px 125px;
+}
+
+.Education {
+  padding-bottom: 2%;
+}
