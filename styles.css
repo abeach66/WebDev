@@ -34,8 +34,17 @@ hr {
   padding-bottom: 2%;
 }
 
-@media (max-width: 1600px)
+@media (max-width: 1600px) {
   
   #title {
     text-align: center;
   }
+  
+  .Boeing-Title {
+    position: static;
+  }
+  .Boeing-Heading {
+    position: static;
+  }
+  
+}
