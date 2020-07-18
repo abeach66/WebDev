@@ -34,7 +34,7 @@ hr {
   padding-bottom: 2%;
 }
 
-@media (max-width: 800px)
+@media (max-width: 1600px)
   
   #title {
     text-align: center;
